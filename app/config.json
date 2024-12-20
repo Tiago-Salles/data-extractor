@@ -1,0 +1,15 @@
+{
+    "file_type": "excel",
+    "db": {
+        "engine": "mysql",
+        "name": "x",
+        "host": "localhost",
+        "port": "3306",
+        "user": "",
+        "password": ""
+    },
+    "tables": {
+        "name": "x",
+        "columns": []
+    }
+}
